@@ -1,0 +1,97 @@
+["INFO" - 12:55:05 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 12:55:05 PM] Extension Version: 9.12.0.
+["DEBUG" - 12:55:05 PM] Enabling Prettier globally
+{
+  "languageSelector": [
+    {
+      "language": "javascript"
+    },
+    {
+      "language": "mongo"
+    },
+    {
+      "language": "javascriptreact"
+    },
+    {
+      "language": "typescript"
+    },
+    {
+      "language": "typescriptreact"
+    },
+    {
+      "language": "json"
+    },
+    {
+      "language": "jsonc"
+    },
+    {
+      "language": "json5"
+    },
+    {
+      "language": "css"
+    },
+    {
+      "language": "postcss"
+    },
+    {
+      "language": "less"
+    },
+    {
+      "language": "scss"
+    },
+    {
+      "language": "handlebars"
+    },
+    {
+      "language": "graphql"
+    },
+    {
+      "language": "markdown"
+    },
+    {
+      "language": "mdx"
+    },
+    {
+      "language": "html"
+    },
+    {
+      "language": "vue"
+    },
+    {
+      "language": "yaml"
+    },
+    {
+      "language": "ansible"
+    },
+    {
+      "language": "home-assistant"
+    },
+    {
+      "language": "jsonc",
+      "scheme": "vscode-userdata"
+    }
+  ],
+  "rangeLanguageSelector": [
+    {
+      "language": "javascript"
+    },
+    {
+      "language": "javascriptreact"
+    },
+    {
+      "language": "typescript"
+    },
+    {
+      "language": "typescriptreact"
+    },
+    {
+      "language": "json"
+    },
+    {
+      "language": "jsonc"
+    },
+    {
+      "language": "graphql"
+    }
+  ]
+}

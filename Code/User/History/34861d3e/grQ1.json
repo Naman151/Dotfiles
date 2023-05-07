@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.tabFocusMode": false,
+    "tabnine.experimentalAutoImports": true,
+    "workbench.colorTheme": "Vim Dark Hard"
+}

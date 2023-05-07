@@ -1,0 +1,130 @@
+["INFO" - 1:15:27 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 1:15:27 PM] Extension Version: 9.12.0.
+["DEBUG" - 1:15:27 PM] Enabling Prettier globally
+{
+  "languageSelector": [
+    {
+      "language": "javascript"
+    },
+    {
+      "language": "mongo"
+    },
+    {
+      "language": "javascriptreact"
+    },
+    {
+      "language": "typescript"
+    },
+    {
+      "language": "typescriptreact"
+    },
+    {
+      "language": "json"
+    },
+    {
+      "language": "jsonc"
+    },
+    {
+      "language": "json5"
+    },
+    {
+      "language": "css"
+    },
+    {
+      "language": "postcss"
+    },
+    {
+      "language": "less"
+    },
+    {
+      "language": "scss"
+    },
+    {
+      "language": "handlebars"
+    },
+    {
+      "language": "graphql"
+    },
+    {
+      "language": "markdown"
+    },
+    {
+      "language": "mdx"
+    },
+    {
+      "language": "html"
+    },
+    {
+      "language": "vue"
+    },
+    {
+      "language": "yaml"
+    },
+    {
+      "language": "ansible"
+    },
+    {
+      "language": "home-assistant"
+    },
+    {
+      "language": "jsonc",
+      "scheme": "vscode-userdata"
+    }
+  ],
+  "rangeLanguageSelector": [
+    {
+      "language": "javascript"
+    },
+    {
+      "language": "javascriptreact"
+    },
+    {
+      "language": "typescript"
+    },
+    {
+      "language": "typescriptreact"
+    },
+    {
+      "language": "json"
+    },
+    {
+      "language": "jsonc"
+    },
+    {
+      "language": "graphql"
+    }
+  ]
+}
+["INFO" - 1:15:28 PM] Formatting vscode-userdata:/home/naman/.config/Code/User/profiles/7ea727a4/settings.json
+["DEBUG" - 1:15:28 PM] Using bundled version of prettier.
+["INFO" - 1:15:28 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 1:15:28 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:15:28 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": true,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 220,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": true,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/naman/.config/Code/User/profiles/7ea727a4/settings.json",
+  "parser": "json"
+}
+["INFO" - 1:15:28 PM] Formatting completed in 66ms.

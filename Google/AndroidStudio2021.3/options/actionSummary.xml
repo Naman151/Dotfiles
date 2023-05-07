@@ -1,0 +1,16 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CheckForUpdate">
+      <i c="1" l="1683116587674" />
+    </e>
+    <e n="WelcomeScreen.RunDeviceManager">
+      <i c="1" l="1683116590815" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
+      <i c="1" l="1683116586788" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1683116583059" />
+    </e>
+  </component>
+</application>

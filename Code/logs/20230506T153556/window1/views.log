@@ -1,0 +1,18 @@
+2023-05-06 15:35:57.154 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2023-05-06 15:35:57.154 [info] Added views:workbench.panel.output in workbench.panel.output
+2023-05-06 15:35:57.154 [info] Added views:terminal in terminal
+2023-05-06 15:35:57.154 [info] Added views:workbench.scm in workbench.view.scm
+2023-05-06 15:35:57.154 [info] Added views:workbench.view.search in workbench.view.search
+2023-05-06 15:35:57.154 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2023-05-06 15:35:57.367 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2023-05-06 15:35:57.530 [info] Added views:github.cweijan.mysql in workbench.view.extension.github-cweijan-mysql
+2023-05-06 15:35:57.530 [info] Added views:github.cweijan.nosql in workbench.view.extension.github-cweijan-nosql
+2023-05-06 15:35:57.531 [info] Added views:dockerContainers,dockerImages,dockerRegistries,dockerNetworks,dockerVolumes,vscode-docker.views.dockerContexts,vscode-docker.views.help in workbench.view.extension.dockerView
+2023-05-06 15:35:57.531 [info] Added views:thunder-client-sidebar in workbench.view.extension.thunder-client
+2023-05-06 15:35:57.796 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2023-05-06 15:35:58.209 [info] Added views:workbench.panel.comments in workbench.panel.comments
+2023-05-06 15:36:00.254 [info] Added views:tabnine-home in workbench.view.extension.tabnine-access
+2023-05-06 15:36:00.256 [info] Added views:tabnine-notifications in workbench.view.extension.tabnine-access
+2023-05-06 15:36:00.258 [info] Added views:tabnine-today in workbench.view.extension.tabnine-access
+2023-05-06 15:47:48.540 [info] Showing view npm in the container workbench.view.explorer
+2023-05-06 15:47:48.601 [info] Added views:npm in workbench.view.explorer

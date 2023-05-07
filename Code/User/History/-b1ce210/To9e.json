@@ -1,0 +1,365 @@
+{
+	// ========= EDITOR  =====================================
+	"editor.fontFamily": "ShureTechMono Nerd Font",
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true,
+		"source.organizeImports": true
+	},
+	"quokka.showCodeLensInOutputChannel": false,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.fontLigatures": true,
+	"editor.cursorBlinking": "phase",
+	"kite.showWelcomeNotificationOnStartup": false,
+	"editor.minimap.enabled": false,
+	"workbench.editor.untitled.hint": "hidden",
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": true,
+	"editor.wordWrap": "wordWrapColumn",
+	"editor.guides.bracketPairs": "active",
+	"editor.language.brackets": [],
+	"editor.scrollbar.horizontalScrollbarSize": 4,
+	"editor.scrollbar.verticalScrollbarSize": 5,
+	"editor.smoothScrolling": true,
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.cursorStyle": "block-outline",
+	"editor.lineNumbers": "relative",
+	"editor.renderWhitespace": "all",
+	"editor.stickyScroll.enabled": true,
+	"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+	"editor.formatOnPaste": false,
+	"editor.formatOnSave": true,
+	"editor.language.colorizedBracketPairs": [],
+	"editor.formatOnType": false,
+	"editor.tabCompletion": "onlySnippets",
+	"editor.stablePeek": true,
+	"editor.linkedEditing": true,
+	"editor.foldingImportsByDefault": true,
+	"editor.hover.delay": 250,
+	"editor.lineHeight": 1.54,
+	"editor.letterSpacing": -1,
+	"editor.padding.bottom": 25,
+	"editor.padding.top": 25,
+	"editor.tabSize": 5,
+	"editor.accessibilityPageSize": 20,
+	"editor.fontWeight": "800",
+	"editor.fontVariations": true,
+	"interactiveSession.editor.fontFamily": "FiraCode Nerd Font",
+	"editor.largeFileOptimizations": true,
+
+	"workbench.editor.tabCloseButton": "off",
+	"workbench.editor.wrapTabs": true,
+	"workbench.editor.titleScrollbarSizing": "large",
+	"workbench.editor.preferHistoryBasedLanguageDetection": true,
+
+	//============ EXPLORER ==================================
+	"explorer.fileNesting.enabled": true,
+	"editor.tokenColorCustomizations": {
+		"[Vim Dark Hard]": {},
+		"textMateRules": [
+			{
+				"name": "One Dark italic",
+				"scope": ["comment", "entity.other.attribute-name", "keyword", "markup.underline.link", "storage.modifier", "storage.type", "string.url", "variable.language.super", "variable.language.this"],
+				"settings": {
+					"fontStyle": "italic"
+				}
+			},
+			{
+				"name": "One Dark italic reset",
+				"scope": [
+					"keyword.operator",
+					"keyword.other.type",
+					"storage.modifier.import",
+					"storage.modifier.package",
+					"storage.type.built-in",
+					"storage.type.function.arrow",
+					"storage.type.generic",
+					"storage.type.java",
+					"storage.type.primitive"
+				],
+				"settings": {
+					"fontStyle": ""
+				}
+			}
+		]
+	},
+	"explorer.openEditors.sortOrder": "alphabetical",
+
+	//========== ERROR LENS =========================
+	"errorLens.fontFamily": "FiraCode Nerd Font",
+	"errorLens.fontSize": "13",
+	"errorLens.fontStyleItalic": true,
+	"errorLens.fontWeight": "600",
+	"errorLens.borderRadius": "5px",
+	"errorLens.excludeBySource": ["ts(7006)"],
+	"errorLens.statusBarCommand": "goToLine",
+
+	//======================================================================================
+	"code-runner.clearPreviousOutput": true,
+
+	// ========= TERMINAL ===============================================
+	"terminal.integrated.fontSize": 12,
+	"terminal.integrated.profiles.windows": {
+		"PowerShell": {
+			"source": "PowerShell",
+			"icon": "terminal-powershell"
+		},
+		"Git Bash": {
+			"source": "Git Bash"
+		}
+	},
+	"terminal.integrated.enableMultiLinePasteWarning": false,
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"terminal.integrated.copyOnSelection": true,
+	"terminal.integrated.defaultProfile.linux": "zsh",
+	"terminal.integrated.enableBell": true,
+	"terminal.integrated.fontWeight": "800",
+	"terminal.integrated.fontWeightBold": "bold",
+	"terminal.integrated.ignoreProcessNames": ["starship", "bash"],
+	"terminal.integrated.automationProfile.windows": {
+		"color": "terminal.ansiBlue"
+	},
+	"terminal.integrated.env.windows": {},
+	"terminal.integrated.autoReplies": {},
+	"terminal.integrated.tabs.defaultColor": "terminal.ansiCyan",
+	"terminal.integrated.tabs.defaultIcon": "terminal-bash",
+	"terminal.integrated.tabs.focusMode": "singleClick",
+	"terminal.integrated.smoothScrolling": true,
+	"terminal.integrated.minimumContrastRatio": 7,
+	"terminal.integrated.localEchoStyle": "underlined",
+	"terminal.external.windowsExec": "",
+	"terminal.integrated.tabStopWidth": 5,
+	"terminal.integrated.letterSpacing": 0.85,
+	"terminal.integrated.lineHeight": 1.18,
+	"terminal.integrated.tabFocusMode": false,
+	"terminal.integrated.gpuAcceleration": "on",
+	"terminal.integrated.splitCwd": "workspaceRoot",
+
+	"debug.terminal.clearBeforeReusing": true,
+
+	"terminal.integrated.": "xterm",
+	"terminal.integrated.profiles.cwd": "",
+
+	"debug.console.fontFamily": "FiraCode Nerd Font",
+	"debug.javascript.terminalOptions": {},
+
+	//======================== FILES =================================================
+	"files.autoSave": "afterDelay",
+	"files.autoSaveDelay": 5000,
+	"files.exclude": {
+		"**/__tests__": true,
+		"**/.vscode": true,
+		"**/build": true,
+		"**/dist": true,
+		"**/node_modules": true,
+		"**/package-lock.json": true,
+		"**/thunder-tests": true
+	},
+
+	// ==================== PRETTIER =====================================
+	"prettier.trailingComma": "all",
+	"prettier.useTabs": true,
+	"prettier.printWidth": 220,
+	"prettier.enableDebugLogs": true,
+	"prettier.semi": false,
+	"workbench.productIconTheme": "icons-carbon",
+
+	//============== DATABASE EXTENSIONS ======================================
+	"database-client.resultTheme": "stripe",
+	"database-client.highlightSQLBlock": true,
+	"database-client.showUser": true,
+	"database-client.showTrigger": true,
+	"database-client.showEvent": true,
+	"database-client.showQuery": true,
+	"database-client.showReverseSwitch": true,
+	"database-client.escapedAllObjectName": true,
+	"database-client.reloadAfterDML": true,
+	"database-client.resultRowHeight": "28px",
+	"database-client.saveConnectionExpandedState": true,
+
+	//================= THUNDER CLIENT =================================================
+	"thunder-client.saveToWorkspace": true,
+	"thunder-client.httpLibrary": "axios",
+	"thunder-client.httpVersion": "HTTP/2",
+	"thunder-client.requestLayout": "Top/Bottom",
+	"thunder-client.sidebar.defaultTab": "Collections",
+	"thunder-client.editorFontSize": 12,
+	"thunder-client.saveTokenPerEnvironment": true,
+	"thunder-client.sidebar.showActivityFromCollection": true,
+
+	//============== GIT ========================================================
+	"git.terminalGitEditor": true,
+	"git.ignoredRepositories": ["c:\\Users\\ASUS\\.vscode\\extensions\\stepsize.stepsize-1.0.1\\resources\\demo-repository"],
+	"git.enableSmartCommit": true,
+	"gitlens.currentLine.dateFormat": "",
+	"gitlens.gitCommands.search.showResultsInSideBar": false,
+	"git.openRepositoryInParentFolders": "always",
+
+	//============= VIM =================================================
+	"vim.textwidth": 240,
+	"editor.wordWrapColumn": 240,
+	"vim.commandLineModeKeyBindings": [],
+	"vim.commandLineModeKeyBindingsNonRecursive": [],
+	"vim.easymotion": true,
+	"vim.insertModeKeyBindings": [
+		{
+			"before": ["<Capslock>"],
+			"after": ["<Esc>"]
+		}
+	],
+	"vim.normalModeKeyBindings": [],
+	"vim.argumentObjectClosingDelimiters": [")", "]", "}"],
+	"vim.argumentObjectOpeningDelimiters": ["(", "[", "{"],
+	"vim.argumentObjectSeparators": [",", "."],
+	"vim.cursorStylePerMode.insert": "line-thin",
+	"vim.foldfix": true,
+	"vim.handleKeys": {
+		"<C-w>": false,
+		// "<C-d>": true,
+		"<C-s>": false,
+		"<C-z>": false,
+		// "<C-b>": false,
+		"<C-a>": false,
+		"<C-c>": false,
+		"<C-x>": false,
+		"<C-v>": false
+	},
+	"vim.highlightedyank.enable": true,
+	"vim.cursorStylePerMode.normal": "block",
+	"vim.digraphs": {},
+	"vim.visualModeKeyBindings": [],
+
+	"vim.camelCaseMotion.enable": true,
+	"vim.highlightedyank.textColor": "#581845",
+	"vim.highlightedyank.duration": 250,
+
+	"vim.statusBarColorControl": true,
+	"vim.statusBarColors.normal": "#1F618D",
+	"vim.statusBarColors.insert": "#DE3163",
+	"vim.statusBarColors.visualline": "#28B463",
+	"vim.statusBarColors.commandlineinprogress": "#2E4053",
+	"vim.highlightedyank.color": "#F8C8DC",
+	"vim.showMarksInGutter": true,
+
+	//=================================================================================
+	"tabnine.experimentalAutoImports": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"notebook.output.wordWrap": true,
+	"bracket-pair-colorizer-2.depreciation-notice": false,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"liveServer.settings.donotShowInfoMsg": true,
+	"cSpell.userWords": ["showpin"],
+	"autoimport.filesToScan": "**/*.{ts,tsx,js,jsx}",
+
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"[dart]": {
+		"editor.formatOnSave": true,
+		"editor.formatOnType": true,
+		"editor.rulers": [80],
+		"editor.selectionHighlight": false,
+		"editor.suggest.snippetsPreventQuickSuggestions": false,
+		"editor.suggestSelection": "first",
+		"editor.tabCompletion": "onlySnippets",
+		"editor.wordBasedSuggestions": false
+	},
+
+	"window.openFilesInNewWindow": "default",
+
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+
+	"material-icon-theme.activeIconPack": "react_redux",
+	"material-icon-theme.files.associations": {
+		"*.ts": "typescript",
+		"**.json": "json",
+		"fileName.ts": "angular"
+	},
+	"material-icon-theme.folders.associations": {},
+	"material-icon-theme.folders.color": "#2568db",
+	"material-icon-theme.languages.associations": {},
+	"rapidapi.terminalLink.enabled": false,
+	"go.toolsManagement.autoUpdate": true,
+	"react-native-tools.showUserTips": false,
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"background.fullscreen": {
+		"image": "https://wallpapercave.com/wp/wp2301613.jpg",
+		"opacity": 0.7,
+		"size": "cover",
+		"interval": 0
+	},
+
+	"[typescript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"css.lint.boxModel": "warning",
+	"css.lint.duplicateProperties": "warning",
+	"css.lint.float": "warning",
+	"css.lint.fontFaceProperties": "error",
+	"css.lint.idSelector": "error",
+	"css.lint.important": "warning",
+	"css.lint.ieHack": "warning",
+	"css.lint.importStatement": "warning",
+	"css.lint.unknownVendorSpecificProperties": "warning",
+	"scss.lint.float": "warning",
+	"less.lint.important": "warning",
+	"less.lint.float": "warning",
+	"totalTypeScript.hideAllTips": false,
+	"totalTypeScript.hideBasicTips": false,
+	"sqltools.connections": [],
+	"workbench.startupEditor": "none",
+	"notebook.breadcrumbs.showCodeCells": false,
+	"grunt.autoDetect": "on",
+	"workbench.colorCustomizations": {
+		"statusBar.background": "#1F618D",
+		"statusBar.noFolderBackground": "#1F618D",
+		"statusBar.debuggingBackground": "#1F618D"
+	},
+
+	"typescript.format.insertSpaceAfterConstructor": true,
+	"eslint.format.enable": true,
+	"eslint.packageManager": "pnpm",
+	"workbench.layoutControl.type": "menu",
+	"mssql.enableQueryHistoryCapture": false,
+	"[svg]": {
+		"editor.defaultFormatter": "jock.svg"
+	},
+	"npm.enableRunFromFolder": true,
+
+	"debug.javascript.defaultRuntimeExecutable": {
+		"pwa-node": "node"
+	},
+
+	"vsicons.dontShowNewVersionMessage": true,
+	"editor.guides.highlightActiveIndentation": "always",
+
+	"[python]": {
+		"editor.formatOnType": true
+	},
+	"scm.defaultViewMode": "tree",
+	"scm.inputFontFamily": "FiraCode Nerd Font",
+
+	"auto-close-tag.insertSpaceBeforeSelfClosingTag": true,
+
+	"search.defaultViewMode": "tree",
+	"search.maxResults": 1000,
+
+	"workbench.layoutControl.enabled": false,
+	"window.menuBarVisibility": "toggle",
+	"workbench.iconTheme": "vscode-icons",
+	"workbench.colorTheme": "Sweet Dracula Monokai",
+	"editor.fontSize": 13.4,
+	"terminal.integrated.fontFamily": "JetBrainsMonoNL Nerd Font",
+	"editor.codeLensFontFamily": "FiraCode Nerd Font",
+	"terminal.integrated.defaultProfile.osx": "",
+	"svelte.enable-ts-plugin": true,
+	"prettier.singleAttributePerLine": true,
+	"breadcrumbs.filePath": "last",
+	"workbench.activityBar.visible": false
+}

@@ -1,0 +1,734 @@
+2023-05-06 15:35:57.634 [info] Extension host with pid 26238 started
+2023-05-06 15:35:57.634 [info] Skipping acquiring lock for /home/naman/.config/Code/User/workspaceStorage/b76dfbc6b518cb8795013a4a41677cdc.
+2023-05-06 15:35:57.795 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-05-06 15:35:57.804 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2023-05-06 15:35:58.046 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-05-06 15:35:58.052 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+2023-05-06 15:35:58.063 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+2023-05-06 15:35:58.108 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-05-06 15:35:58.168 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-05-06 15:35:58.272 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-05-06 15:35:58.304 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-05-06 15:35:58.383 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-05-06 15:35:58.753 [info] Eager extensions activated
+2023-05-06 15:35:58.871 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-05-06 15:35:58.875 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-05-06 15:35:58.891 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2023-05-06 15:35:58.900 [info] ExtensionService#_doActivateExtension cweijan.vscode-mysql-client2, startup: false, activationEvent: 'onStartupFinished'
+2023-05-06 15:35:59.217 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2023-05-06 15:35:59.227 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2023-05-06 15:35:59.581 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-05-06 15:35:59.622 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2023-05-06 15:35:59.625 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2023-05-06 15:36:00.043 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-05-06 15:36:00.139 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-05-06 15:39:25.230 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:39:25.234 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:39:25.582 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:39:25.582 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:39:35.416 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:39:35.417 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:40:35.236 [info] ExtensionService#_doActivateExtension svelte.svelte-vscode, startup: false, activationEvent: 'onLanguage:javascript'
+2023-05-06 15:41:49.493 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:41:49.494 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:41:56.261 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:41:56.261 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:43:58.896 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:43:58.896 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:47:48.684 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-05-06 15:51:13.185 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:51:13.187 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:51:13.533 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:51:13.534 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:51:23.364 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:51:23.364 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:51:23.723 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:51:23.723 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:51:24.323 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:51:24.323 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:51:24.630 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:51:24.631 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:51:25.295 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:51:25.295 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:51:32.084 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:51:32.085 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:51:39.351 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:51:39.351 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:52:23.229 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:52:23.229 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:53:18.486 [info] ExtensionService#_doActivateExtension SimonSiefke.svg-preview, startup: false, activationEvent: 'onLanguage:xml'
+2023-05-06 15:55:56.452 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:55:56.452 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:56:35.201 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:56:35.201 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:56:42.657 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:56:42.657 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:56:42.982 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:56:42.982 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:56:43.254 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:56:43.254 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:57:28.103 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:57:28.103 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:57:28.472 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:57:28.472 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:57:33.529 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:57:33.530 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 15:58:01.360 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 15:58:01.360 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.266 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.267 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.429 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.429 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.442 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.443 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.455 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.455 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.469 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.469 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.479 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.479 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.588 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.589 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.600 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.600 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.612 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.613 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.623 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.624 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.637 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.637 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.650 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.651 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.662 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.662 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.672 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.672 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.692 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.692 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.714 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.715 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.724 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.724 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.735 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.735 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.748 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.748 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.762 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.762 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:24.992 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:24.993 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:25.000 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:25.000 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:48.086 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:48.087 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:01:58.194 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:01:58.194 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:03:20.463 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:03:20.463 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:04:46.846 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:04:46.847 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:35:36.205 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:35:36.206 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:35:49.233 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:35:49.233 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:36:52.201 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:36:52.202 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:37:16.997 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:37:16.997 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:37:27.861 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:37:27.862 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:37:33.057 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:37:33.057 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:38:07.366 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:38:07.366 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:39:09.506 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:39:09.507 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:39:43.541 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:39:43.541 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:41:11.859 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:41:11.859 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:41:11.964 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:41:11.964 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:41:12.103 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:41:12.103 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:41:27.749 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:41:27.750 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:41:30.337 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:41:30.338 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:41:32.442 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:41:32.442 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:41:47.769 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:41:47.770 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:41:50.338 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:41:50.339 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:42:18.895 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:42:18.896 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:43:13.657 [error] [dbaeumer.vscode-eslint] provider FAILED
+2023-05-06 16:43:13.658 [error] Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 16:47:49.928 [info] Extension host terminating: renderer closed the MessagePort
+2023-05-06 16:47:50.321 [error] TypeError: r.some is not a function
+	at d.saveToDisk (/home/naman/.vscode/extensions/vscodevim.vim-1.25.2/out/extension.js:2:669912)
+	at t.deactivate (/home/naman/.vscode/extensions/vscodevim.vim-1.25.2/out/extension.js:2:213764)
+	at v.Y (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:10974)
+	at /snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9157
+	at Array.map (<anonymous>)
+	at v.R (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9144)
+	at v.terminate (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9415)
+	at d.terminate (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at g (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at MessagePortMain.<anonymous> (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:30578)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-05-06 16:47:50.330 [error] Canceled: Canceled
+	at new l (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:104563)
+	at a.O (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:11657)
+	at H.<computed>.V.charCodeAt.H.<computed> (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:8947)
+	at e.ExtHostCommands.g (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124729)
+	at e.ExtHostCommands.executeCommand (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at C.registerCommand.description (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:123398)
+	at e.ExtHostCommands.h (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:125315)
+	at e.ExtHostCommands.g (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124205)
+	at e.ExtHostCommands.executeCommand (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at Object.executeCommand (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:24043)
+	at D (/snap/code/127/usr/share/code/resources/app/extensions/git/dist/main.js:2:1259661)
+	at v.invoke (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at Object.m [as dispose] (/snap/code/127/usr/share/code/resources/app/extensions/git/dist/main.js:2:1274494)
+	at /snap/code/127/usr/share/code/resources/app/extensions/git/dist/main.js:2:1278940
+	at Array.forEach (<anonymous>)
+	at g.dispose (/snap/code/127/usr/share/code/resources/app/extensions/git/dist/main.js:2:1278926)
+	at t.<anonymous> (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:12369)
+	at t.dispose (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:12504)
+	at t.<anonymous> (/snap/code/127/usr/share/code/resources/app/extensions/git/dist/main.js:2:1261791)
+	at t.dispose (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:12504)
+	at T (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12080)
+	at v.Y (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:11173)
+	at /snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9157
+	at Array.map (<anonymous>)
+	at v.R (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9144)
+	at v.terminate (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9415)
+	at d.terminate (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at g (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at MessagePortMain.<anonymous> (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:30578)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-05-06 16:47:50.332 [error] Canceled: Canceled
+	at new l (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:104563)
+	at a.O (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:11657)
+	at H.<computed>.V.charCodeAt.H.<computed> (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:8947)
+	at e.ExtHostCommands.g (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124729)
+	at e.ExtHostCommands.executeCommand (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at C.registerCommand.description (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:123398)
+	at e.ExtHostCommands.h (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:125315)
+	at e.ExtHostCommands.g (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124205)
+	at e.ExtHostCommands.executeCommand (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at Object.executeCommand (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:24043)
+	at Object.dispose (/home/naman/.vscode/extensions/tabnine.tabnine-vscode-3.6.46/out/extension.js:17:101310)
+	at /home/naman/.vscode/extensions/tabnine.tabnine-vscode-3.6.46/out/extension.js:17:30354
+	at Array.forEach (<anonymous>)
+	at f (/home/naman/.vscode/extensions/tabnine.tabnine-vscode-3.6.46/out/extension.js:17:30339)
+	at Object.dispose (/home/naman/.vscode/extensions/tabnine.tabnine-vscode-3.6.46/out/extension.js:17:29757)
+	at T (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12080)
+	at v.Y (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:11173)
+	at /snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9157
+	at Array.map (<anonymous>)
+	at v.R (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9144)
+	at v.terminate (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9415)
+	at d.terminate (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at g (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at MessagePortMain.<anonymous> (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:30578)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-05-06 16:47:50.379 [warning] Canceled
+2023-05-06 16:47:50.790 [info] Extension host with pid 26238 exiting with code 0

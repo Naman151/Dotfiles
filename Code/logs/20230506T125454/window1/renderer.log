@@ -1,0 +1,16 @@
+2023-05-06 12:54:54.572 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-05-06 12:54:54.986 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-05-06 12:54:57.007 [error] [Extension Host] (node:30991) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2023-05-06 12:54:57.803 [info] [perf] Render performance baseline is 225ms
+2023-05-06 12:54:57.897 [error] [Extension Host] Error: Binary request timed out. {"State":{}}
+	at Timeout._onTimeout (/home/naman/.vscode/extensions/tabnine.tabnine-vscode-3.6.46/out/extension.js:17:33113)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7)
+2023-05-06 12:55:05.578 [error] [Extension Host] (node:31660) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2023-05-06 12:55:06.896 [error] [Extension Host] Error: Binary request timed out. {"State":{}}
+	at Timeout._onTimeout (/home/naman/.vscode/extensions/tabnine.tabnine-vscode-3.6.46/out/extension.js:17:33113)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7)
+2023-05-06 13:01:07.738 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

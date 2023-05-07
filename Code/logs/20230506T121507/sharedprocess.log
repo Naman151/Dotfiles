@@ -1,0 +1,17 @@
+2023-05-06 12:17:36.424 [info] Getting Manifest... lefd.sweetdracula-monokai
+2023-05-06 12:17:36.432 [info] Installing extension: lefd.sweetdracula-monokai
+2023-05-06 12:17:40.499 [info] Extension signature is verified: lefd.sweetdracula-monokai
+2023-05-06 12:17:40.516 [info] Extracted extension to /home/naman/.vscode/extensions/.ff1950fb-b859-4c8a-b30d-0332277ab359: lefd.sweetdracula-monokai
+2023-05-06 12:17:40.519 [info] Renamed to /home/naman/.vscode/extensions/lefd.sweetdracula-monokai-1.1.8
+2023-05-06 12:17:40.520 [info] Extracting extension completed. lefd.sweetdracula-monokai
+2023-05-06 12:17:40.528 [info] Extension installed successfully: lefd.sweetdracula-monokai
+2023-05-06 12:27:01.028 [info] Getting Manifest... tobias-z.vscode-harpoon
+2023-05-06 12:27:01.042 [info] Installing extension: tobias-z.vscode-harpoon
+2023-05-06 12:27:02.576 [info] Extension signature is verified: tobias-z.vscode-harpoon
+2023-05-06 12:27:02.605 [info] Extracted extension to /home/naman/.vscode/extensions/.5666145f-caf3-4e6b-a231-e30778a74ddc: tobias-z.vscode-harpoon
+2023-05-06 12:27:02.607 [info] Renamed to /home/naman/.vscode/extensions/tobias-z.vscode-harpoon-1.2.1
+2023-05-06 12:27:02.608 [info] Extracting extension completed. tobias-z.vscode-harpoon
+2023-05-06 12:27:02.615 [info] Extension installed successfully: tobias-z.vscode-harpoon
+2023-05-06 12:27:54.906 [info] Uninstalling extension from the profile: tobias-z.vscode-harpoon@1.2.1 vscode-userdata:/home/naman/.config/Code/User/profiles/7ea727a4/extensions.json
+2023-05-06 12:27:54.963 [info] Marked extension as uninstalled tobias-z.vscode-harpoon-1.2.1
+2023-05-06 12:27:55.339 [info] Successfully uninstalled extension from the profile tobias-z.vscode-harpoon@1.2.1 vscode-userdata:/home/naman/.config/Code/User/profiles/7ea727a4/extensions.json

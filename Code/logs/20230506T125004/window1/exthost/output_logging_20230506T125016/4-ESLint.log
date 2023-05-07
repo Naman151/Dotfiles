@@ -1,0 +1,35 @@
+[Info  - 12:50:29 PM] ESLint server is starting.
+[Info  - 12:50:29 PM] ESLint server running in node v16.17.1
+[Info  - 12:50:29 PM] ESLint server is running.
+/bin/sh: 1: pnpm: not found
+Uncaught exception received.
+Error: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+    at checkExecSyncError (node:child_process:880:11)
+    at execSync (node:child_process:951:15)
+    at node:electron/js2c/asar_bundle:2:12711
+    at Object.get (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/server/out/eslintServer.js:1:25051)
+    at e.get (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/server/out/eslintServer.js:1:25160)
+    at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/server/out/eslintServer.js:1:19727
+Uncaught exception received.
+Error: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+    at checkExecSyncError (node:child_process:880:11)
+    at execSync (node:child_process:951:15)
+    at node:electron/js2c/asar_bundle:2:12711
+    at Object.get (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/server/out/eslintServer.js:1:25051)
+    at e.get (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/server/out/eslintServer.js:1:25160)
+    at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/server/out/eslintServer.js:1:19727
+Uncaught exception received.
+Error: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+    at checkExecSyncError (node:child_process:880:11)
+    at execSync (node:child_process:951:15)
+    at node:electron/js2c/asar_bundle:2:12711
+    at Object.get (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/server/out/eslintServer.js:1:25051)
+    at e.get (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/server/out/eslintServer.js:1:25160)
+    at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/server/out/eslintServer.js:1:19727
+[Info  - 12:53:59 PM] ESLint server stopped.

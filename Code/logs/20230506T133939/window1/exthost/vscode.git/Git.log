@@ -1,0 +1,24 @@
+2023-05-06 13:39:43.087 [info] Log level: Info
+2023-05-06 13:39:43.087 [info] Validating found git in: "git"
+2023-05-06 13:39:43.087 [info] Using git "2.39.2" from "git"
+2023-05-06 13:39:43.087 [info] > git rev-parse --show-toplevel [12ms]
+2023-05-06 13:39:43.087 [info] > git rev-parse --git-dir --git-common-dir [10ms]
+2023-05-06 13:39:43.087 [info] Open repository: /media/naman/New Volume/Projects/NestJs/harmonyApi
+2023-05-06 13:39:43.087 [info] > git rev-parse --show-toplevel [52ms]
+2023-05-06 13:39:43.087 [info] > git rev-parse --show-toplevel [58ms]
+2023-05-06 13:39:43.087 [info] > git config --get commit.template [102ms]
+2023-05-06 13:39:43.113 [info] > git rev-parse --show-toplevel [29ms]
+2023-05-06 13:39:43.138 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [28ms]
+2023-05-06 13:39:43.778 [info] > git status -z -uall [615ms]
+2023-05-06 13:39:43.779 [info] > git check-ignore -v -z --stdin [5ms]
+2023-05-06 13:39:43.799 [info] > git rev-parse --show-toplevel [663ms]
+2023-05-06 13:39:44.140 [info] > git config --get commit.template [182ms]
+2023-05-06 13:39:44.294 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [35ms]
+2023-05-06 13:39:44.447 [info] > git status -z -uall [114ms]
+2023-05-06 13:39:44.447 [info] > git show --textconv :src/crypto/ethereum/account/account.service.ts [51ms]
+2023-05-06 13:39:44.449 [info] > git ls-files --stage -- /media/naman/New Volume/Projects/NestJs/harmonyApi/src/crypto/ethereum/account/account.service.ts [26ms]
+2023-05-06 13:39:44.491 [info] > git cat-file -s d1817a87f9e3a29308c8bcf74073f276d7fc9c9c [13ms]
+2023-05-06 13:40:07.207 [info] > git check-ignore -v -z --stdin [3ms]
+2023-05-06 13:47:12.004 [info] > git config --get commit.template [13ms]
+2023-05-06 13:47:12.012 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2023-05-06 13:47:12.054 [info] > git status -z -uall [31ms]

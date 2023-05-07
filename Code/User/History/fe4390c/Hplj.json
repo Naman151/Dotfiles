@@ -1,0 +1,125 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+	{
+		"key": "ctrl+n",
+		"command": "extension.advancedNewFile"
+	},
+	{
+		"key": "ctrl+alt+n",
+		"command": "-extension.advancedNewFile"
+	},
+	{
+		"key": "ctrl+oem_period",
+		"command": "workbench.action.focusActivityBar"
+	},
+	{
+		"key": "ctrl+oem_comma",
+		"command": "workbench.action.toggleActivityBarVisibility"
+	},
+	{
+		"key": "ctrl+w",
+		"command": "workbench.action.terminal.kill",
+		"when": "terminalFocus"
+	},
+	{
+		"key": "ctrl+d ctrl+b",
+		"command": "github.cweijan.mysql.focus"
+	},
+	{
+		"key": "ctrl+w",
+		"command": "workbench.action.closeActiveEditor",
+		"when": "editorFocus"
+	},
+	{
+		"key": "ctrl+w",
+		"command": "-workbench.action.closeActiveEditor"
+	},
+	{
+		"key": "ctrl+n",
+		"command": "-workbench.action.files.newUntitledFile"
+	},
+	{
+		"key": "ctrl+alt+win+n",
+		"command": "welcome.showNewFileEntries"
+	},
+	{
+		"key": "ctrl+alt+win+n",
+		"command": "-welcome.showNewFileEntries"
+	},
+	{
+		"key": "ctrl+shift+d ctrl+shift+d",
+		"command": "mysql.connection.add"
+	},
+	{
+		"key": "ctrl+shift+enter",
+		"command": "editor.action.goToImplementation",
+		"when": "editorHasImplementationProvider && editorTextFocus && !isInEmbeddedEditor"
+	},
+	{
+		"key": "ctrl+f12",
+		"command": "-editor.action.goToImplementation",
+		"when": "editorHasImplementationProvider && editorTextFocus && !isInEmbeddedEditor"
+	},
+	{
+		"key": "shift+g",
+		"command": "-list.focusLast",
+		"when": "listFocus && !inputFocus"
+	},
+	{
+		"key": "ctrl+f ctrl+f",
+		"command": "references-view.findReferences",
+		"when": "editorHasReferenceProvider"
+	},
+	{
+		"key": "shift+alt+f12",
+		"command": "-references-view.findReferences",
+		"when": "editorHasReferenceProvider"
+	},
+	{
+		"key": "ctrl+shift+s",
+		"command": "workbench.action.openSettings2"
+	},
+	{
+		"key": "ctrl+shift+e",
+		"command": "workbench.action.toggleSidebarVisibility",
+		"when": "sideBarVisible"
+	},
+	{
+		"key": "ctrl+b",
+		"command": "-workbench.action.toggleSidebarVisibility"
+	},
+	{
+		"key": "ctrl+f4",
+		"command": "workbench.action.closeWindow"
+	},
+	{
+		"key": "ctrl+shift+w",
+		"command": "-workbench.action.closeWindow"
+	},
+	{
+		"key": "ctrl+shift+w",
+		"command": "workbench.action.closeActiveEditor"
+	},
+	{
+		"key": "ctrl+f4",
+		"command": "-workbench.action.closeActiveEditor"
+	},
+	{
+		"key": "ctrl+alt+w",
+		"command": "workbench.action.closeAllEditors"
+	},
+	{
+		"key": "ctrl+k ctrl+w",
+		"command": "-workbench.action.closeAllEditors"
+	},
+	{
+		"key": "ctrl+shift+k",
+		"command": "-editor.action.deleteLines",
+		"when": "textInputFocus && !editorReadonly"
+	},
+	{
+		"key": "ctrl+o",
+		"command": "-workbench.action.files.openFile",
+		"when": "true"
+	}
+]

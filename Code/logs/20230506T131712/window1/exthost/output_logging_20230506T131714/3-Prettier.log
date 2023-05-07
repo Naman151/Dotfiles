@@ -1,0 +1,429 @@
+["INFO" - 1:17:15 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 1:17:15 PM] Extension Version: 9.12.0.
+["DEBUG" - 1:17:15 PM] Enabling Prettier globally
+{
+  "languageSelector": [
+    {
+      "language": "javascript"
+    },
+    {
+      "language": "mongo"
+    },
+    {
+      "language": "javascriptreact"
+    },
+    {
+      "language": "typescript"
+    },
+    {
+      "language": "typescriptreact"
+    },
+    {
+      "language": "json"
+    },
+    {
+      "language": "jsonc"
+    },
+    {
+      "language": "json5"
+    },
+    {
+      "language": "css"
+    },
+    {
+      "language": "postcss"
+    },
+    {
+      "language": "less"
+    },
+    {
+      "language": "scss"
+    },
+    {
+      "language": "handlebars"
+    },
+    {
+      "language": "graphql"
+    },
+    {
+      "language": "markdown"
+    },
+    {
+      "language": "mdx"
+    },
+    {
+      "language": "html"
+    },
+    {
+      "language": "vue"
+    },
+    {
+      "language": "yaml"
+    },
+    {
+      "language": "ansible"
+    },
+    {
+      "language": "home-assistant"
+    },
+    {
+      "language": "jsonc",
+      "scheme": "vscode-userdata"
+    }
+  ],
+  "rangeLanguageSelector": [
+    {
+      "language": "javascript"
+    },
+    {
+      "language": "javascriptreact"
+    },
+    {
+      "language": "typescript"
+    },
+    {
+      "language": "typescriptreact"
+    },
+    {
+      "language": "json"
+    },
+    {
+      "language": "jsonc"
+    },
+    {
+      "language": "graphql"
+    }
+  ]
+}
+["INFO" - 1:17:18 PM] Formatting vscode-userdata:/home/naman/.config/Code/User/profiles/7ea727a4/settings.json
+["DEBUG" - 1:17:18 PM] Using bundled version of prettier.
+["INFO" - 1:17:18 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 1:17:18 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:17:18 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": true,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 220,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": true,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/naman/.config/Code/User/profiles/7ea727a4/settings.json",
+  "parser": "json"
+}
+["INFO" - 1:17:18 PM] Formatting completed in 67ms.
+["DEBUG" - 1:20:23 PM] Local prettier module path: '/media/naman/New Volume/Projects/NestJs/harmonyApi/node_modules/prettier/index.js'
+["DEBUG" - 1:20:24 PM] Using prettier version 2.5.1
+["DEBUG" - 1:20:25 PM] Enabling Prettier for Workspace /media/naman/New Volume/Projects/NestJs/harmonyApi
+{
+  "languageSelector": [
+    {
+      "pattern": "/media/naman/New Volume/Projects/NestJs/harmonyApi/**/*.{js,_js,bones,cjs,es,es6,frag,gs,jake,javascript,jsb,jscad,jsfl,jslib,jsm,jspre,jss,mjs,njs,pac,sjs,ssjs,xsjs,xsjslib,wxs,js.flow,jsx,ts,cts,mts,tsx,importmap,json,4DForm,4DProject,avsc,geojson,gltf,har,ice,JSON-tmLanguage,mcmeta,tfstate,tfstate.backup,topojson,webapp,webmanifest,yy,yyp,jsonc,code-snippets,sublime-build,sublime-commands,sublime-completions,sublime-keymap,sublime-macro,sublime-menu,sublime-mousemap,sublime-project,sublime-settings,sublime-theme,sublime-workspace,sublime_metrics,sublime_session,json5,css,wxss,pcss,postcss,less,scss,handlebars,hbs,graphql,gql,graphqls,md,livemd,markdown,mdown,mdwn,mkd,mkdn,mkdown,ronn,scd,workbook,mdx,component.html,html,hta,htm,html.hl,inc,xht,xhtml,mjml,vue,yml,mir,reek,rviz,sublime-syntax,syntax,yaml,yaml-tmlanguage,yaml.sed,yml.mysql}",
+      "scheme": "file"
+    },
+    {
+      "language": "javascript"
+    },
+    {
+      "language": "mongo"
+    },
+    {
+      "language": "javascriptreact"
+    },
+    {
+      "language": "typescript"
+    },
+    {
+      "language": "typescriptreact"
+    },
+    {
+      "language": "json"
+    },
+    {
+      "language": "jsonc"
+    },
+    {
+      "language": "json5"
+    },
+    {
+      "language": "css"
+    },
+    {
+      "language": "postcss"
+    },
+    {
+      "language": "less"
+    },
+    {
+      "language": "scss"
+    },
+    {
+      "language": "handlebars"
+    },
+    {
+      "language": "graphql"
+    },
+    {
+      "language": "markdown"
+    },
+    {
+      "language": "mdx"
+    },
+    {
+      "language": "html"
+    },
+    {
+      "language": "vue"
+    },
+    {
+      "language": "yaml"
+    },
+    {
+      "language": "ansible"
+    },
+    {
+      "language": "home-assistant"
+    },
+    {
+      "language": "jsonc",
+      "scheme": "vscode-userdata"
+    }
+  ],
+  "rangeLanguageSelector": [
+    {
+      "language": "javascript"
+    },
+    {
+      "language": "javascriptreact"
+    },
+    {
+      "language": "typescript"
+    },
+    {
+      "language": "typescriptreact"
+    },
+    {
+      "language": "json"
+    },
+    {
+      "language": "jsonc"
+    },
+    {
+      "language": "graphql"
+    }
+  ]
+}
+["INFO" - 1:21:18 PM] Formatting vscode-userdata:/home/naman/.config/Code/User/profiles/7ea727a4/settings.json
+["DEBUG" - 1:21:18 PM] Using bundled version of prettier.
+["INFO" - 1:21:18 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 1:21:18 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:21:18 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": true,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 220,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": true,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/naman/.config/Code/User/profiles/7ea727a4/settings.json",
+  "parser": "json"
+}
+["INFO" - 1:21:18 PM] Formatting completed in 69ms.
+["INFO" - 1:21:52 PM] Formatting vscode-userdata:/home/naman/.config/Code/User/profiles/7ea727a4/settings.json
+["DEBUG" - 1:21:52 PM] Using bundled version of prettier.
+["INFO" - 1:21:52 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 1:21:52 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:21:52 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": true,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 220,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": true,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/naman/.config/Code/User/profiles/7ea727a4/settings.json",
+  "parser": "json"
+}
+["INFO" - 1:21:52 PM] Formatting completed in 27ms.
+["INFO" - 1:21:52 PM] Formatting vscode-userdata:/home/naman/.config/Code/User/profiles/7ea727a4/settings.json
+["DEBUG" - 1:21:52 PM] Using bundled version of prettier.
+["INFO" - 1:21:52 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 1:21:52 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:21:52 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": true,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 220,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": true,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/naman/.config/Code/User/profiles/7ea727a4/settings.json",
+  "parser": "json"
+}
+["INFO" - 1:21:52 PM] Formatting completed in 48ms.
+["INFO" - 1:21:57 PM] Formatting vscode-userdata:/home/naman/.config/Code/User/profiles/7ea727a4/settings.json
+["DEBUG" - 1:21:58 PM] Using bundled version of prettier.
+["INFO" - 1:21:58 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 1:21:58 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:21:58 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": true,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 220,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": true,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/naman/.config/Code/User/profiles/7ea727a4/settings.json",
+  "parser": "json"
+}
+["INFO" - 1:21:58 PM] Formatting completed in 39ms.
+["INFO" - 1:26:25 PM] Formatting vscode-userdata:/home/naman/.config/Code/User/profiles/7ea727a4/settings.json
+["DEBUG" - 1:26:25 PM] Using bundled version of prettier.
+["INFO" - 1:26:25 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 1:26:25 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:26:25 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": true,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 220,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": true,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/naman/.config/Code/User/profiles/7ea727a4/settings.json",
+  "parser": "json"
+}
+["INFO" - 1:26:25 PM] Formatting completed in 35ms.
+["INFO" - 1:26:33 PM] Formatting vscode-userdata:/home/naman/.config/Code/User/profiles/7ea727a4/settings.json
+["DEBUG" - 1:26:33 PM] Using bundled version of prettier.
+["INFO" - 1:26:33 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 1:26:33 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:26:33 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": true,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 220,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": false,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": true,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/naman/.config/Code/User/profiles/7ea727a4/settings.json",
+  "parser": "json"
+}
+["INFO" - 1:26:33 PM] Formatting completed in 19ms.

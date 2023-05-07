@@ -1,0 +1,73 @@
+2023-05-06 12:15:08.536 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-05-06 12:15:09.012 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-05-06 12:15:11.999 [info] [perf] Render performance baseline is 200ms
+2023-05-06 12:15:12.544 [error] [Extension Host] Error: Binary request timed out. {"State":{}}
+	at Timeout._onTimeout (/home/naman/.vscode/extensions/tabnine.tabnine-vscode-3.6.46/out/extension.js:17:33113)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7)
+2023-05-06 12:15:12.618 [error] [Extension Host] (node:18722) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2023-05-06 12:18:45.129 [error] Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+: Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 12:19:38.941 [error] Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+: Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 12:21:42.038 [error] [Extension Host] Error: Binary request timed out. {"State":{}}
+	at Timeout._onTimeout (/home/naman/.vscode/extensions/tabnine.tabnine-vscode-3.6.46/out/extension.js:17:33113)
+	at listOnTimeout (node:internal/timers:559:17)
+	at process.processTimers (node:internal/timers:502:7)
+2023-05-06 12:22:05.950 [error] Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+: Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 12:23:00.644 [error] Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+: Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 12:23:10.529 [error] Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+: Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)
+2023-05-06 12:23:13.317 [error] Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+: Error: Request textDocument/codeAction failed with message: Command failed: pnpm root -g
+/bin/sh: 1: pnpm: not found
+
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47599
+	at ie (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:47893)
+	at /home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42677
+	at Immediate.<anonymous> (/home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.4.0/client/out/extension.js:1:42697)
+	at process.processImmediate (node:internal/timers:466:21)

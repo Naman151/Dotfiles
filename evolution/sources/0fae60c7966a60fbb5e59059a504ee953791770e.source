@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=namanshahi151@gmail.com
+Enabled=true
+Parent=f933514fe56a65e62decf5748e775b2925453351
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=83adf37e33633490b244e7d467abdd9e71754043
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=namanshahi151@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

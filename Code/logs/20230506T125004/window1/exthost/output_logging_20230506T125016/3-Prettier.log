@@ -1,0 +1,132 @@
+["INFO" - 12:50:17 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 12:50:17 PM] Extension Version: 9.12.0.
+["DEBUG" - 12:50:17 PM] Enabling Prettier globally
+{
+  "languageSelector": [
+    {
+      "language": "javascript"
+    },
+    {
+      "language": "mongo"
+    },
+    {
+      "language": "javascriptreact"
+    },
+    {
+      "language": "typescript"
+    },
+    {
+      "language": "typescriptreact"
+    },
+    {
+      "language": "json"
+    },
+    {
+      "language": "jsonc"
+    },
+    {
+      "language": "json5"
+    },
+    {
+      "language": "css"
+    },
+    {
+      "language": "postcss"
+    },
+    {
+      "language": "less"
+    },
+    {
+      "language": "scss"
+    },
+    {
+      "language": "handlebars"
+    },
+    {
+      "language": "graphql"
+    },
+    {
+      "language": "markdown"
+    },
+    {
+      "language": "mdx"
+    },
+    {
+      "language": "html"
+    },
+    {
+      "language": "vue"
+    },
+    {
+      "language": "yaml"
+    },
+    {
+      "language": "ansible"
+    },
+    {
+      "language": "home-assistant"
+    },
+    {
+      "language": "jsonc",
+      "scheme": "vscode-userdata"
+    }
+  ],
+  "rangeLanguageSelector": [
+    {
+      "language": "javascript"
+    },
+    {
+      "language": "javascriptreact"
+    },
+    {
+      "language": "typescript"
+    },
+    {
+      "language": "typescriptreact"
+    },
+    {
+      "language": "json"
+    },
+    {
+      "language": "jsonc"
+    },
+    {
+      "language": "graphql"
+    }
+  ]
+}
+["INFO" - 12:50:29 PM] Attempted to determine module path from /media/naman/New Volume/Projects/NestJs/harmonyApi
+["ERROR" - 12:50:29 PM] Failed to load module. If you have prettier or plugins referenced in package.json, ensure you have run `npm install`
+["ERROR" - 12:50:29 PM] Cannot find module 'prettier' from '/media/naman/New Volume/Projects/NestJs/harmonyApi'
+Error: Cannot find module 'prettier' from '/media/naman/New Volume/Projects/NestJs/harmonyApi'
+	at e.exports [as sync] (/home/naman/.vscode/extensions/esbenp.prettier-vscode-9.12.0/dist/extension.js:1:37299)
+	at t.ModuleResolver.findPkg (/home/naman/.vscode/extensions/esbenp.prettier-vscode-9.12.0/dist/extension.js:1:7359)
+	at t.ModuleResolver.getPrettierInstance (/home/naman/.vscode/extensions/esbenp.prettier-vscode-9.12.0/dist/extension.js:1:3313)
+	at t.default.handleActiveTextEditorChanged (/home/naman/.vscode/extensions/esbenp.prettier-vscode-9.12.0/dist/extension.js:1:9843)
+	at handleActiveTextEditorChangedSync (/home/naman/.vscode/extensions/esbenp.prettier-vscode-9.12.0/dist/extension.js:1:9445)
+	at v.invoke (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at /snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:16108
+	at v.invoke (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at e.ExtHostDocumentsAndEditors.acceptDocumentsAndEditorsDelta (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:14001)
+	at e.ExtHostDocumentsAndEditors.$acceptDocumentsAndEditorsDelta (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:12316)
+	at a.N (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:11620)
+	at a.M (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:11338)
+	at a.H (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:10431)
+	at a.G (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:9412)
+	at /snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:8200
+	at v.invoke (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at g.fire (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at /snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:32403
+	at v.invoke (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at g.fire (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14852)
+	at MessagePortMain.<anonymous> (/snap/code/127/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:30529)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)

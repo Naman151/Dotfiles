@@ -1,0 +1,263 @@
+2023-05-06 13:51:48.569 [info] Configuration changed
+2023-05-06 13:51:48.662 [info] Configuration changed
+2023-05-06 13:51:49.262 [info] Configuration changed
+2023-05-06 13:51:50.816 [info] /home/naman/.config/Code/User/settings.json closed
+2023-05-06 13:51:51.024 [info] /home/naman/.config/Code/User/keybindings.json closed
+2023-05-06 13:51:52.296 [info] /home/naman/.config/Code/User/profiles/7ea727a4/settings.json closed
+2023-05-06 13:51:52.490 [info] /home/naman/.config/Code/User/profiles/7ea727a4/keybindings.json closed
+2023-05-06 13:52:00.323 [info] Active editor: file:///media/naman/New%20Volume/Projects/NestJs/harmonyApi/.env
+2023-05-06 13:52:00.651 [info] /home/naman/.config/Code/User/profiles/7ea727a4/settings.json closed
+2023-05-06 13:52:00.685 [info] Configuration changed
+2023-05-06 13:52:49.949 [info] /home/naman/.config/Code/User/profiles/7ea727a4/settings.json closed
+2023-05-06 13:52:49.986 [info] Configuration changed
+2023-05-06 13:53:45.948 [info] Active editor: file:///media/naman/New%20Volume/Projects/NestJs/harmonyApi/.env
+2023-05-06 13:54:06.319 [info] Active editor: file:///media/naman/New%20Volume/Projects/NestJs/harmonyApi/.env
+2023-05-06 13:54:07.911 [info] /media/naman/New Volume/Projects/NestJs/harmonyApi/.env closed
+2023-05-06 13:54:07.912 [info] /media/naman/New Volume/Projects/NestJs/harmonyApi/.env.git closed
+2023-05-06 13:57:50.398 [info] Active editor: file:///media/naman/New%20Volume/Projects/NestJs/harmonyApi/.env
+2023-05-06 13:57:50.571 [info] /home/naman/.config/Code/User/profiles/7ea727a4/settings.json closed
+2023-05-06 13:57:50.718 [info] Configuration changed
+2023-05-06 14:01:22.033 [info] Active editor: file:///media/naman/New%20Volume/Projects/NestJs/harmonyApi/src/crypto/ethereum/account/account.service.ts
+2023-05-06 14:01:48.985 [warning] invalid cursor position. [[739, 2] | [739, 2]].
+2023-05-06 14:01:49.563 [warning] invalid cursor position. [[679, 2] | [679, 2]].
+2023-05-06 14:01:49.710 [warning] invalid cursor position. [[491, 2] | [491, 2]].
+2023-05-06 14:01:49.793 [warning] invalid cursor position. [[488, 2] | [488, 2]].
+2023-05-06 14:01:55.923 [warning] invalid cursor position. [[1328, 8] | [1328, 8]].
+2023-05-06 14:01:56.208 [warning] invalid cursor position. [[1336, 8] | [1336, 8]].
+2023-05-06 14:01:56.553 [warning] invalid cursor position. [[1348, 8] | [1348, 8]].
+2023-05-06 14:01:58.753 [warning] invalid cursor position. [[1359, 10] | [1359, 10]].
+2023-05-06 14:02:00.778 [warning] invalid cursor position. [[1368, 10] | [1368, 10]].
+2023-05-06 14:02:01.568 [warning] invalid cursor position. [[1373, 10] | [1373, 10]].
+2023-05-06 14:02:01.702 [warning] invalid cursor position. [[1377, 10] | [1377, 10]].
+2023-05-06 14:02:01.732 [warning] invalid cursor position. [[1378, 10] | [1378, 10]].
+2023-05-06 14:02:02.034 [warning] invalid cursor position. [[1380, 10] | [1380, 10]].
+2023-05-06 14:02:03.457 [warning] invalid cursor position. [[1380, 10] | [1380, 10]].
+2023-05-06 14:02:03.524 [warning] invalid cursor position. [[1378, 10] | [1378, 10]].
+2023-05-06 14:02:03.554 [warning] invalid cursor position. [[1377, 10] | [1377, 10]].
+2023-05-06 14:02:03.674 [warning] invalid cursor position. [[1373, 10] | [1373, 10]].
+2023-05-06 14:02:03.831 [warning] invalid cursor position. [[1368, 10] | [1368, 10]].
+2023-05-06 14:02:04.932 [warning] invalid cursor position. [[1368, 10] | [1368, 10]].
+2023-05-06 14:02:05.073 [warning] invalid cursor position. [[1373, 10] | [1373, 10]].
+2023-05-06 14:02:05.191 [warning] invalid cursor position. [[1377, 10] | [1377, 10]].
+2023-05-06 14:02:05.225 [warning] invalid cursor position. [[1378, 10] | [1378, 10]].
+2023-05-06 14:02:05.303 [warning] invalid cursor position. [[1380, 10] | [1380, 10]].
+2023-05-06 14:02:05.570 [warning] invalid cursor position. [[1388, 10] | [1388, 10]].
+2023-05-06 14:02:06.765 [warning] invalid cursor position. [[1388, 10] | [1388, 10]].
+2023-05-06 14:02:07.009 [warning] invalid cursor position. [[1380, 10] | [1380, 10]].
+2023-05-06 14:02:07.077 [warning] invalid cursor position. [[1378, 10] | [1378, 10]].
+2023-05-06 14:02:07.107 [warning] invalid cursor position. [[1377, 10] | [1377, 10]].
+2023-05-06 14:02:07.280 [warning] invalid cursor position. [[1373, 10] | [1373, 10]].
+2023-05-06 14:02:07.407 [warning] invalid cursor position. [[1368, 10] | [1368, 10]].
+2023-05-06 14:02:07.686 [warning] invalid cursor position. [[1359, 10] | [1359, 10]].
+2023-05-06 14:02:08.045 [warning] invalid cursor position. [[1348, 10] | [1348, 10]].
+2023-05-06 14:02:08.500 [warning] invalid cursor position. [[1336, 10] | [1336, 10]].
+2023-05-06 14:02:08.667 [warning] invalid cursor position. [[1331, 10] | [1331, 10]].
+2023-05-06 14:02:08.785 [warning] invalid cursor position. [[1328, 10] | [1328, 10]].
+2023-05-06 14:02:09.018 [warning] invalid cursor position. [[1323, 10] | [1323, 10]].
+2023-05-06 14:02:09.091 [warning] invalid cursor position. [[1322, 10] | [1322, 10]].
+2023-05-06 14:02:09.198 [warning] invalid cursor position. [[1244, 10] | [1244, 10]].
+2023-05-06 14:02:09.237 [warning] invalid cursor position. [[1243, 10] | [1243, 10]].
+2023-05-06 14:02:09.316 [warning] invalid cursor position. [[1163, 10] | [1163, 10]].
+2023-05-06 14:02:09.355 [warning] invalid cursor position. [[1162, 10] | [1162, 10]].
+2023-05-06 14:02:09.422 [warning] invalid cursor position. [[1066, 10] | [1066, 10]].
+2023-05-06 14:02:09.456 [warning] invalid cursor position. [[1065, 10] | [1065, 10]].
+2023-05-06 14:02:09.521 [warning] invalid cursor position. [[969, 10] | [969, 10]].
+2023-05-06 14:02:09.560 [warning] invalid cursor position. [[968, 10] | [968, 10]].
+2023-05-06 14:02:09.630 [warning] invalid cursor position. [[853, 10] | [853, 10]].
+2023-05-06 14:02:09.663 [warning] invalid cursor position. [[852, 10] | [852, 10]].
+2023-05-06 14:02:09.731 [warning] invalid cursor position. [[739, 10] | [739, 10]].
+2023-05-06 14:02:15.281 [warning] invalid cursor position. [[52, 32] | [52, 32]].
+2023-05-06 14:02:17.998 [warning] invalid cursor position. [[54, 32] | [54, 32]].
+2023-05-06 14:02:18.499 [warning] invalid cursor position. [[57, 32] | [57, 32]].
+2023-05-06 14:02:18.557 [warning] invalid cursor position. [[58, 32] | [58, 32]].
+2023-05-06 14:02:18.633 [warning] invalid cursor position. [[85, 32] | [85, 32]].
+2023-05-06 14:02:18.655 [warning] invalid cursor position. [[86, 32] | [86, 32]].
+2023-05-06 14:02:18.731 [warning] invalid cursor position. [[97, 32] | [97, 32]].
+2023-05-06 14:02:18.767 [warning] invalid cursor position. [[98, 32] | [98, 32]].
+2023-05-06 14:02:18.863 [warning] invalid cursor position. [[112, 32] | [112, 32]].
+2023-05-06 14:02:18.900 [warning] invalid cursor position. [[113, 32] | [113, 32]].
+2023-05-06 14:02:18.968 [warning] invalid cursor position. [[143, 32] | [143, 32]].
+2023-05-06 14:02:18.992 [warning] invalid cursor position. [[144, 32] | [144, 32]].
+2023-05-06 14:02:19.041 [warning] invalid cursor position. [[154, 32] | [154, 32]].
+2023-05-06 14:02:19.062 [warning] invalid cursor position. [[155, 32] | [155, 32]].
+2023-05-06 14:02:19.277 [warning] invalid cursor position. [[156, 32] | [156, 32]].
+2023-05-06 14:02:22.612 [warning] invalid cursor position. [[232, 2] | [232, 2]].
+2023-05-06 14:02:24.893 [warning] invalid cursor position. [[305, 2] | [305, 2]].
+2023-05-06 14:02:27.056 [warning] invalid cursor position. [[401, 2] | [401, 2]].
+2023-05-06 14:02:29.398 [warning] invalid cursor position. [[491, 2] | [491, 2]].
+2023-05-06 14:02:29.503 [warning] invalid cursor position. [[679, 2] | [679, 2]].
+2023-05-06 14:02:29.592 [warning] invalid cursor position. [[739, 2] | [739, 2]].
+2023-05-06 14:02:29.704 [warning] invalid cursor position. [[853, 2] | [853, 2]].
+2023-05-06 14:02:29.816 [warning] invalid cursor position. [[969, 2] | [969, 2]].
+2023-05-06 14:02:29.903 [warning] invalid cursor position. [[1066, 2] | [1066, 2]].
+2023-05-06 14:02:29.988 [warning] invalid cursor position. [[1163, 2] | [1163, 2]].
+2023-05-06 14:02:30.084 [warning] invalid cursor position. [[1244, 2] | [1244, 2]].
+2023-05-06 14:02:30.276 [warning] invalid cursor position. [[1436, 2] | [1436, 2]].
+2023-05-06 14:02:30.450 [warning] invalid cursor position. [[1509, 2] | [1509, 2]].
+2023-05-06 14:02:34.247 [warning] invalid cursor position. [[54, 32] | [54, 32]].
+2023-05-06 14:02:34.747 [warning] invalid cursor position. [[57, 32] | [57, 32]].
+2023-05-06 14:02:34.795 [warning] invalid cursor position. [[58, 32] | [58, 32]].
+2023-05-06 14:02:34.850 [warning] invalid cursor position. [[85, 32] | [85, 32]].
+2023-05-06 14:02:34.881 [warning] invalid cursor position. [[86, 32] | [86, 32]].
+2023-05-06 14:02:34.944 [warning] invalid cursor position. [[97, 32] | [97, 32]].
+2023-05-06 14:02:34.973 [warning] invalid cursor position. [[98, 32] | [98, 32]].
+2023-05-06 14:02:35.044 [warning] invalid cursor position. [[112, 32] | [112, 32]].
+2023-05-06 14:02:35.065 [warning] invalid cursor position. [[113, 32] | [113, 32]].
+2023-05-06 14:02:35.128 [warning] invalid cursor position. [[143, 32] | [143, 32]].
+2023-05-06 14:02:35.159 [warning] invalid cursor position. [[144, 32] | [144, 32]].
+2023-05-06 14:02:35.268 [warning] invalid cursor position. [[154, 32] | [154, 32]].
+2023-05-06 14:02:35.305 [warning] invalid cursor position. [[155, 32] | [155, 32]].
+2023-05-06 14:02:35.330 [warning] invalid cursor position. [[156, 32] | [156, 32]].
+2023-05-06 14:02:35.363 [warning] invalid cursor position. [[231, 32] | [231, 32]].
+2023-05-06 14:02:35.385 [warning] invalid cursor position. [[232, 32] | [232, 32]].
+2023-05-06 14:02:35.412 [warning] invalid cursor position. [[233, 32] | [233, 32]].
+2023-05-06 14:02:35.443 [warning] invalid cursor position. [[304, 32] | [304, 32]].
+2023-05-06 14:02:35.464 [warning] invalid cursor position. [[305, 32] | [305, 32]].
+2023-05-06 14:02:35.519 [warning] invalid cursor position. [[400, 32] | [400, 32]].
+2023-05-06 14:02:35.543 [warning] invalid cursor position. [[401, 32] | [401, 32]].
+2023-05-06 14:02:35.601 [warning] invalid cursor position. [[490, 32] | [490, 32]].
+2023-05-06 14:02:35.631 [warning] invalid cursor position. [[491, 32] | [491, 32]].
+2023-05-06 14:02:35.686 [warning] invalid cursor position. [[678, 32] | [678, 32]].
+2023-05-06 14:02:35.717 [warning] invalid cursor position. [[679, 32] | [679, 32]].
+2023-05-06 14:02:35.778 [warning] invalid cursor position. [[738, 32] | [738, 32]].
+2023-05-06 14:02:35.808 [warning] invalid cursor position. [[739, 32] | [739, 32]].
+2023-05-06 14:02:35.844 [warning] invalid cursor position. [[740, 32] | [740, 32]].
+2023-05-06 14:02:35.875 [warning] invalid cursor position. [[852, 32] | [852, 32]].
+2023-05-06 14:02:35.902 [warning] invalid cursor position. [[853, 32] | [853, 32]].
+2023-05-06 14:02:35.975 [warning] invalid cursor position. [[968, 32] | [968, 32]].
+2023-05-06 14:02:35.995 [warning] invalid cursor position. [[969, 32] | [969, 32]].
+2023-05-06 14:02:36.065 [warning] invalid cursor position. [[1065, 32] | [1065, 32]].
+2023-05-06 14:02:36.094 [warning] invalid cursor position. [[1066, 32] | [1066, 32]].
+2023-05-06 14:02:36.180 [warning] invalid cursor position. [[1162, 32] | [1162, 32]].
+2023-05-06 14:02:36.234 [warning] invalid cursor position. [[1163, 32] | [1163, 32]].
+2023-05-06 14:02:36.332 [warning] invalid cursor position. [[1243, 32] | [1243, 32]].
+2023-05-06 14:02:36.356 [warning] invalid cursor position. [[1244, 32] | [1244, 32]].
+2023-05-06 14:02:36.420 [warning] invalid cursor position. [[1322, 32] | [1322, 32]].
+2023-05-06 14:02:36.450 [warning] invalid cursor position. [[1323, 32] | [1323, 32]].
+2023-05-06 14:02:36.525 [warning] invalid cursor position. [[1435, 32] | [1435, 32]].
+2023-05-06 14:02:36.557 [warning] invalid cursor position. [[1436, 32] | [1436, 32]].
+2023-05-06 14:02:36.623 [warning] invalid cursor position. [[1438, 32] | [1438, 32]].
+2023-05-06 14:02:36.652 [warning] invalid cursor position. [[1439, 32] | [1439, 32]].
+2023-05-06 14:02:36.686 [warning] invalid cursor position. [[1507, 32] | [1507, 32]].
+2023-05-06 14:02:36.705 [warning] invalid cursor position. [[1508, 32] | [1508, 32]].
+2023-05-06 14:02:36.745 [warning] invalid cursor position. [[1509, 32] | [1509, 32]].
+2023-05-06 14:02:37.327 [warning] invalid cursor position. [[1508, 32] | [1508, 32]].
+2023-05-06 14:02:37.523 [warning] invalid cursor position. [[1507, 32] | [1507, 32]].
+2023-05-06 14:02:37.706 [warning] invalid cursor position. [[1439, 32] | [1439, 32]].
+2023-05-06 14:02:40.826 [warning] invalid cursor position. [[1443, 32] | [1443, 32]].
+2023-05-06 14:02:40.876 [warning] invalid cursor position. [[1444, 32] | [1444, 32]].
+2023-05-06 14:02:40.907 [warning] invalid cursor position. [[1445, 32] | [1445, 32]].
+2023-05-06 14:02:40.969 [warning] invalid cursor position. [[1447, 32] | [1447, 32]].
+2023-05-06 14:02:40.999 [warning] invalid cursor position. [[1448, 32] | [1448, 32]].
+2023-05-06 14:02:41.056 [warning] invalid cursor position. [[1450, 32] | [1450, 32]].
+2023-05-06 14:02:41.089 [warning] invalid cursor position. [[1451, 32] | [1451, 32]].
+2023-05-06 14:02:41.247 [warning] invalid cursor position. [[1456, 32] | [1456, 32]].
+2023-05-06 14:02:41.362 [warning] invalid cursor position. [[1458, 32] | [1458, 32]].
+2023-05-06 14:02:41.527 [warning] invalid cursor position. [[1464, 32] | [1464, 32]].
+2023-05-06 14:02:41.750 [warning] invalid cursor position. [[1472, 32] | [1472, 32]].
+2023-05-06 14:02:41.776 [warning] invalid cursor position. [[1473, 32] | [1473, 32]].
+2023-05-06 14:02:42.099 [warning] invalid cursor position. [[1472, 32] | [1472, 32]].
+2023-05-06 14:02:43.450 [warning] invalid cursor position. [[1472, 32] | [1472, 32]].
+2023-05-06 14:02:43.486 [warning] invalid cursor position. [[1473, 32] | [1473, 32]].
+2023-05-06 14:02:43.522 [warning] invalid cursor position. [[1474, 32] | [1474, 32]].
+2023-05-06 14:02:43.593 [warning] invalid cursor position. [[1476, 32] | [1476, 32]].
+2023-05-06 14:02:44.978 [warning] invalid cursor position. [[1474, 32] | [1474, 32]].
+2023-05-06 14:02:45.014 [warning] invalid cursor position. [[1473, 32] | [1473, 32]].
+2023-05-06 14:02:45.051 [warning] invalid cursor position. [[1472, 32] | [1472, 32]].
+2023-05-06 14:02:45.297 [warning] invalid cursor position. [[1464, 32] | [1464, 32]].
+2023-05-06 14:02:59.570 [info] Active editor: file:///media/naman/New%20Volume/Projects/NestJs/harmonyApi/src/crypto/ethereum/account/account.service.ts
+2023-05-06 14:04:09.340 [warning] invalid cursor position. [[1456, 11] | [1456, 11]].
+2023-05-06 14:04:10.040 [warning] invalid cursor position. [[1451, 11] | [1451, 11]].
+2023-05-06 14:04:10.114 [warning] invalid cursor position. [[1450, 11] | [1450, 11]].
+2023-05-06 14:04:10.291 [warning] invalid cursor position. [[1447, 11] | [1447, 11]].
+2023-05-06 14:04:10.399 [warning] invalid cursor position. [[1444, 11] | [1444, 11]].
+2023-05-06 14:04:24.763 [warning] invalid cursor position. [[50, 31] | [50, 31]].
+2023-05-06 14:04:25.265 [warning] invalid cursor position. [[51, 31] | [51, 31]].
+2023-05-06 14:04:25.303 [warning] invalid cursor position. [[52, 31] | [52, 31]].
+2023-05-06 14:04:25.377 [warning] invalid cursor position. [[54, 31] | [54, 31]].
+2023-05-06 14:04:25.414 [warning] invalid cursor position. [[57, 31] | [57, 31]].
+2023-05-06 14:04:25.450 [warning] invalid cursor position. [[58, 31] | [58, 31]].
+2023-05-06 14:04:25.522 [warning] invalid cursor position. [[85, 31] | [85, 31]].
+2023-05-06 14:04:25.548 [warning] invalid cursor position. [[86, 31] | [86, 31]].
+2023-05-06 14:04:25.625 [warning] invalid cursor position. [[97, 31] | [97, 31]].
+2023-05-06 14:04:25.653 [warning] invalid cursor position. [[98, 31] | [98, 31]].
+2023-05-06 14:04:36.775 [warning] invalid cursor position. [[112, 31] | [112, 31]].
+2023-05-06 14:04:37.275 [warning] invalid cursor position. [[113, 31] | [113, 31]].
+2023-05-06 14:04:37.351 [warning] invalid cursor position. [[143, 31] | [143, 31]].
+2023-05-06 14:04:37.389 [warning] invalid cursor position. [[144, 31] | [144, 31]].
+2023-05-06 14:04:37.449 [warning] invalid cursor position. [[154, 31] | [154, 31]].
+2023-05-06 14:04:37.486 [warning] invalid cursor position. [[155, 31] | [155, 31]].
+2023-05-06 14:04:37.510 [warning] invalid cursor position. [[156, 31] | [156, 31]].
+2023-05-06 14:04:37.556 [warning] invalid cursor position. [[231, 31] | [231, 31]].
+2023-05-06 14:04:37.587 [warning] invalid cursor position. [[232, 31] | [232, 31]].
+2023-05-06 14:04:37.621 [warning] invalid cursor position. [[233, 31] | [233, 31]].
+2023-05-06 14:04:37.662 [warning] invalid cursor position. [[304, 31] | [304, 31]].
+2023-05-06 14:04:37.692 [warning] invalid cursor position. [[305, 31] | [305, 31]].
+2023-05-06 14:04:37.763 [warning] invalid cursor position. [[400, 31] | [400, 31]].
+2023-05-06 14:04:37.789 [warning] invalid cursor position. [[401, 31] | [401, 31]].
+2023-05-06 14:04:37.863 [warning] invalid cursor position. [[490, 31] | [490, 31]].
+2023-05-06 14:04:37.892 [warning] invalid cursor position. [[491, 31] | [491, 31]].
+2023-05-06 14:04:37.952 [warning] invalid cursor position. [[678, 31] | [678, 31]].
+2023-05-06 14:04:37.976 [warning] invalid cursor position. [[679, 31] | [679, 31]].
+2023-05-06 14:04:38.038 [warning] invalid cursor position. [[738, 31] | [738, 31]].
+2023-05-06 14:04:38.068 [warning] invalid cursor position. [[739, 31] | [739, 31]].
+2023-05-06 14:04:38.106 [warning] invalid cursor position. [[740, 31] | [740, 31]].
+2023-05-06 14:04:38.145 [warning] invalid cursor position. [[852, 31] | [852, 31]].
+2023-05-06 14:04:38.184 [warning] invalid cursor position. [[853, 31] | [853, 31]].
+2023-05-06 14:04:38.283 [warning] invalid cursor position. [[968, 31] | [968, 31]].
+2023-05-06 14:04:38.316 [warning] invalid cursor position. [[969, 31] | [969, 31]].
+2023-05-06 14:04:38.412 [warning] invalid cursor position. [[1065, 31] | [1065, 31]].
+2023-05-06 14:04:38.460 [warning] invalid cursor position. [[1066, 31] | [1066, 31]].
+2023-05-06 14:04:38.558 [warning] invalid cursor position. [[1162, 31] | [1162, 31]].
+2023-05-06 14:04:38.588 [warning] invalid cursor position. [[1163, 31] | [1163, 31]].
+2023-05-06 14:04:38.677 [warning] invalid cursor position. [[1243, 31] | [1243, 31]].
+2023-05-06 14:04:38.721 [warning] invalid cursor position. [[1244, 31] | [1244, 31]].
+2023-05-06 14:04:38.839 [warning] invalid cursor position. [[1322, 31] | [1322, 31]].
+2023-05-06 14:04:38.869 [warning] invalid cursor position. [[1323, 31] | [1323, 31]].
+2023-05-06 14:04:38.996 [warning] invalid cursor position. [[1435, 31] | [1435, 31]].
+2023-05-06 14:04:39.036 [warning] invalid cursor position. [[1436, 31] | [1436, 31]].
+2023-05-06 14:04:39.112 [warning] invalid cursor position. [[1438, 31] | [1438, 31]].
+2023-05-06 14:04:39.204 [warning] invalid cursor position. [[1507, 31] | [1507, 31]].
+2023-05-06 14:04:39.229 [warning] invalid cursor position. [[1508, 31] | [1508, 31]].
+2023-05-06 14:04:39.269 [warning] invalid cursor position. [[1509, 31] | [1509, 31]].
+2023-05-06 14:04:40.201 [warning] invalid cursor position. [[1508, 31] | [1508, 31]].
+2023-05-06 14:04:40.411 [warning] invalid cursor position. [[1507, 31] | [1507, 31]].
+2023-05-06 14:04:43.454 [warning] invalid cursor position. [[1443, 31] | [1443, 31]].
+2023-05-06 14:04:43.490 [warning] invalid cursor position. [[1444, 31] | [1444, 31]].
+2023-05-06 14:04:43.524 [warning] invalid cursor position. [[1445, 31] | [1445, 31]].
+2023-05-06 14:04:43.598 [warning] invalid cursor position. [[1447, 31] | [1447, 31]].
+2023-05-06 14:04:43.640 [warning] invalid cursor position. [[1448, 31] | [1448, 31]].
+2023-05-06 14:04:43.713 [warning] invalid cursor position. [[1450, 31] | [1450, 31]].
+2023-05-06 14:04:43.751 [warning] invalid cursor position. [[1451, 31] | [1451, 31]].
+2023-05-06 14:04:43.923 [warning] invalid cursor position. [[1456, 31] | [1456, 31]].
+2023-05-06 14:04:44.002 [warning] invalid cursor position. [[1458, 31] | [1458, 31]].
+2023-05-06 14:04:44.250 [warning] invalid cursor position. [[1464, 31] | [1464, 31]].
+2023-05-06 14:04:44.548 [warning] invalid cursor position. [[1472, 31] | [1472, 31]].
+2023-05-06 14:04:44.583 [warning] invalid cursor position. [[1473, 31] | [1473, 31]].
+2023-05-06 14:04:44.620 [warning] invalid cursor position. [[1474, 31] | [1474, 31]].
+2023-05-06 14:04:44.700 [warning] invalid cursor position. [[1476, 31] | [1476, 31]].
+2023-05-06 14:04:44.806 [warning] invalid cursor position. [[1479, 31] | [1479, 31]].
+2023-05-06 14:04:45.301 [warning] invalid cursor position. [[1493, 31] | [1493, 31]].
+2023-05-06 14:05:31.993 [info] Active editor: file:///media/naman/New%20Volume/Projects/NestJs/harmonyApi/src/crypto/ethereum/account/account.service.ts
+2023-05-06 14:05:45.039 [info] /media/naman/New Volume/Projects/NestJs/harmonyApi/src/entity/reward/PostRewards.entity.ts closed
+2023-05-06 14:05:46.237 [info] /media/naman/New Volume/Projects/NestJs/harmonyApi/src/entity/user/user.entity.ts closed
+2023-05-06 14:05:46.903 [info] /media/naman/New Volume/Projects/NestJs/harmonyApi/src/entity/reward/PostRewards.entity.ts closed
+2023-05-06 14:05:47.000 [info] /media/naman/New Volume/Projects/NestJs/harmonyApi/src/entity/reward/PostRewards.entity.ts closed
+2023-05-06 14:05:49.563 [info] /media/naman/New Volume/Projects/NestJs/harmonyApi/src/entity/user/user.entity.ts closed
+2023-05-06 14:07:30.428 [info] Active editor: file:///media/naman/New%20Volume/Projects/NestJs/harmonyApi/src/crypto/ethereum/account/account.service.ts
+2023-05-06 14:07:54.991 [info] Active editor: file:///media/naman/New%20Volume/Projects/NestJs/harmonyApi/.env
+2023-05-06 14:07:57.620 [info] Active editor: file:///media/naman/New%20Volume/Projects/NestJs/harmonyApi/src/crypto/ethereum/account/account.service.ts
+2023-05-06 14:08:10.568 [info] Active editor: file:///media/naman/New%20Volume/Projects/NestJs/harmonyApi/.env
+2023-05-06 14:11:50.806 [info] Active editor: file:///media/naman/New%20Volume/Projects/NestJs/harmonyApi/src/config/typeorm.config.ts
+2023-05-06 14:12:00.719 [info] /media/naman/New Volume/Projects/NestJs/harmonyApi/src/config/typeorm.config.ts closed
+2023-05-06 14:12:00.719 [info] /media/naman/New Volume/Projects/NestJs/harmonyApi/src/config/typeorm.config.ts.git closed
+2023-05-06 14:13:03.258 [info] Active editor: file:///media/naman/New%20Volume/Projects/NestJs/harmonyApi/.env
+2023-05-06 14:13:10.196 [info] /media/naman/New Volume/Projects/NestJs/harmonyApi/.env closed
+2023-05-06 14:13:10.197 [info] /media/naman/New Volume/Projects/NestJs/harmonyApi/.env.git closed
+2023-05-06 14:13:10.242 [info] Active editor: file:///media/naman/New%20Volume/Projects/NestJs/harmonyApi/src/crypto/ethereum/account/account.service.ts
+2023-05-06 14:13:25.600 [info] Active editor: file:///media/naman/New%20Volume/Projects/NestJs/harmonyApi/src/crypto/ethereum/account/account.controller.ts
+2023-05-06 14:13:29.604 [info] /media/naman/New Volume/Projects/NestJs/harmonyApi/src/crypto/ethereum/account/account.controller.ts closed
+2023-05-06 14:13:29.605 [info] /media/naman/New Volume/Projects/NestJs/harmonyApi/src/crypto/ethereum/account/account.controller.ts.git closed
+2023-05-06 14:13:29.678 [info] Active editor: file:///media/naman/New%20Volume/Projects/NestJs/harmonyApi/src/crypto/ethereum/account/account.service.ts
+2023-05-06 14:13:29.965 [info] /media/naman/New Volume/Projects/NestJs/harmonyApi/src/crypto/ethereum/account/account.service.ts closed
+2023-05-06 14:13:29.966 [info] /media/naman/New Volume/Projects/NestJs/harmonyApi/src/crypto/ethereum/account/account.service.ts.git closed
